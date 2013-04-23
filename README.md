@@ -1,4 +1,4 @@
- # grunt-httpcopy
+# grunt-httpcopy
 
 > Copy files from one directory to another, but instead of a standard file copy, download the files from a http server.
 
