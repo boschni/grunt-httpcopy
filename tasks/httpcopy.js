@@ -42,7 +42,7 @@ module.exports = function (grunt) {
                     }
 
                     var data = '';
-                    response.setEncoding('binary');
+                    //response.setEncoding('binary');
                     response.on('data', function (chunk) {
                         data += chunk;
                     });
