@@ -13,7 +13,7 @@ module.exports = function (grunt) {
     grunt.registerMultiTask('httpcopy', 'HTTP copy.', function () {
 
         var path = require('path'),
-            http = require('http'),
+            http = require('follow-redirects').http,
             done = this.async();
 
         // File path (relative) to url mapper
