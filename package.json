@@ -1,7 +1,7 @@
 {
   "name": "grunt-httpcopy",
   "description": "Copy files from one directory to another, but instead of a standard file copy, download the files from a http server.",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "homepage": "https://github.com/u-nikos/grunt-httpcopy",
   "author": {
     "name": "Niek Bosch",
