@@ -1,23 +1,23 @@
 {
   "name": "grunt-httpcopy",
   "description": "Copy files from one directory to another, but instead of a standard file copy, download the files from a http server.",
-  "version": "0.3.0",
-  "homepage": "https://github.com/u-nikos/grunt-httpcopy",
+  "version": "0.3.1",
+  "homepage": "https://github.com/boschni/grunt-httpcopy",
   "author": {
     "name": "Niek Bosch",
-    "email": "niek@demediafabriek.nl"
+    "email": "just.niek@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/u-nikos/grunt-httpcopy.git"
+    "url": "git://github.com/boschni/grunt-httpcopy.git"
   },
   "bugs": {
-    "url": "https://github.com/u-nikos/grunt-httpcopy/issues"
+    "url": "https://github.com/boschni/grunt-httpcopy/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/u-nikos/grunt-httpcopy/blob/master/LICENSE-MIT"
+      "url": "https://github.com/boschni/grunt-httpcopy/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",
